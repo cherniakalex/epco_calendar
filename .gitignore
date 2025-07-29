@@ -1,1 +1,17 @@
-__pycache__/calendar_generator.cpython-313.pyc
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Streamlit or app-generated files
+daily_notes.csv
+
+# VS Code settings (optional, if present)
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
