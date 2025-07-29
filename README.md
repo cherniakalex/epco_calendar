@@ -19,7 +19,7 @@ It shows clickable treatment days, allows entering daily notes, and exports to P
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your_username/epcoritamab-calendar.git
+   git clone https://github.com/cherniakalex/epcoritamab-calendar.git
    cd epcoritamab-calendar
 
 2. Create a virtual environment:
